@@ -1,0 +1,8 @@
+[[Metal_Shader_Converter]]
+arch = "aarch64"
+git-tree-sha1 = "aa44d8087441954a19d1ce179dae5dabeab0c2ca"
+os = "macos"
+
+    [[Metal_Shader_Converter.download]]
+    sha256 = "0c1af55234c1cd9594e9341577cfc81ca2d14b82a9a57ef21dcc6aeed3c86bcb"
+    url = "https://github.com/maleadt/Metal_Shader_Converter_jll.jl/releases/download/Metal_Shader_Converter-v1.1.0+0/Metal_Shader_Converter.v1.1.0.aarch64-apple-darwin.tar.gz"
